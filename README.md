@@ -2,6 +2,7 @@ Hi 👋 My name is Aditya Apurba
 ===============================
 
 * 🌍  I'm currently studying Mathematics and Computing Engineering at Indian Institute of Technology, Dhanbad.
+* 🌐  Portfolio site - https://adityaapurba.vercel.app/
 * ✉️  You can contact me at [adityasapurba@gmail.com](mailto:adityasapurba@gmail.com)
 * 👀  I enjoy doing Competitive Programming, Web development and Machine Learning.
 * 🧠  I'm learning TypeScript and Machine Learning.
